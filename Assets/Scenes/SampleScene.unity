@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18d6e12aa34a5574291bffc74d927b2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseLook
-  mouseSense: 200
+  mouseSense: 1000
   playerBody: {fileID: 2088884205}
 --- !u!43 &367474572
 Mesh:
@@ -669,7 +669,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 993904524}
+  m_Mesh: {fileID: 1953372380}
 --- !u!33 &399418105
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -3771,7 +3771,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 865158949}
+  m_Mesh: {fileID: 1735305961}
 --- !u!33 &754381436
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -5996,7 +5996,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1136970402}
+  m_Mesh: {fileID: 546891741}
 --- !u!33 &889974796
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -11435,7 +11435,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 865158949}
+  m_Mesh: {fileID: 1944520339}
 --- !u!33 &1333998850
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -13645,7 +13645,7 @@ MeshCollider:
   m_Mesh: {fileID: 368794867}
 --- !u!33 &1888421174
 MeshFilter:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 10
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -16625,7 +16625,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 993904524}
+  m_Mesh: {fileID: 519821749}
 --- !u!33 &2092963266
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -19244,7 +19244,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 368794867}
+  m_Mesh: {fileID: 1136970402}
 --- !u!33 &2140829868
 MeshFilter:
   m_ObjectHideFlags: 10
