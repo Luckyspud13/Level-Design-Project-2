@@ -23156,6 +23156,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 51a457c56bab59440b5e83d90de2cc69, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     - target: {fileID: 919132149155446097, guid: 51a457c56bab59440b5e83d90de2cc69, type: 3}
       propertyPath: m_Name
       value: Manager_desk
@@ -23779,10 +23783,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -678588488315902003, guid: 733cefcd19e24334a8692155ae586354, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     - target: {fileID: 919132149155446097, guid: 733cefcd19e24334a8692155ae586354, type: 3}
       propertyPath: m_Name
       value: Meeting_table
       objectReference: {fileID: 0}
+    - target: {fileID: 7071182760956848314, guid: 733cefcd19e24334a8692155ae586354, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30760,10 +30772,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -678588488315902003, guid: 733cefcd19e24334a8692155ae586354, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     - target: {fileID: 919132149155446097, guid: 733cefcd19e24334a8692155ae586354, type: 3}
       propertyPath: m_Name
       value: Meeting_table (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7071182760956848314, guid: 733cefcd19e24334a8692155ae586354, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31084,6 +31104,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1461304994638716399, guid: 4612a337d022ab64b8e4e568ed2f1c9d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     - target: {fileID: 919132149155446097, guid: 4612a337d022ab64b8e4e568ed2f1c9d, type: 3}
       propertyPath: m_Name
       value: Glass_door (3)
@@ -36570,6 +36594,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Table
       objectReference: {fileID: 0}
+    - target: {fileID: 7071182760956848314, guid: 43784c6147a996f4d94d64a5b4980c2d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
+    - target: {fileID: 7202271454713460447, guid: 43784c6147a996f4d94d64a5b4980c2d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c034540da4b054cbaa98b61ccf6bb651, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 43784c6147a996f4d94d64a5b4980c2d, type: 3}
