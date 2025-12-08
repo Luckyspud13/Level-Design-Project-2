@@ -31060,6 +31060,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8143710011712545758, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -7664728788398519507, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -6093592463355912122, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -1806680513116206669, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -1461304994638716399, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -1120989108687609925, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -804731622281664130, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+    - target: {fileID: -678588488315902003, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
     - target: {fileID: 919132149155446097, guid: caecdc45a002a48a381cba7fb2ba41fa, type: 3}
       propertyPath: m_Name
       value: Bed
@@ -37763,6 +37795,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 29c46745884fe4ca7a6ea4eb71899576, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
     - target: {fileID: 919132149155446097, guid: 29c46745884fe4ca7a6ea4eb71899576, type: 3}
       propertyPath: m_Name
       value: baseboard
@@ -74664,6 +74700,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8143710011712545758, guid: 675415b2be0bd4232ab1806a11c1d486, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e24c82b615c404a4da0dee01df8ad377, type: 2}
+    - target: {fileID: -7664728788398519507, guid: 675415b2be0bd4232ab1806a11c1d486, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e24c82b615c404a4da0dee01df8ad377, type: 2}
     - target: {fileID: -6093592463355912122, guid: 675415b2be0bd4232ab1806a11c1d486, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
