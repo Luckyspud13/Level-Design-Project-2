@@ -2046,7 +2046,7 @@ MeshRenderer:
   - {fileID: 2100000, guid: 22a95f2072207714981d81650dcc420b, type: 2}
   - {fileID: 2100000, guid: c9e73eaf3197bae45b1e4f95ae7c6001, type: 2}
   - {fileID: 2100000, guid: c9e73eaf3197bae45b1e4f95ae7c6001, type: 2}
-  - {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+  - {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12380,7 +12380,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: 919132149155446097, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: m_Name
       value: Picture Frame2
@@ -30277,7 +30277,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: 919132149155446097, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: m_Name
       value: Picture Frame2 (2)
@@ -58847,7 +58847,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+  - {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -89486,7 +89486,7 @@ PrefabInstance:
     - target: {fileID: 8056297029228229148, guid: 54f192f0a44ff284483c8e09c88bb442, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
     - target: {fileID: 8659658350447740972, guid: 54f192f0a44ff284483c8e09c88bb442, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.4
@@ -98069,7 +98069,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 22a95f2072207714981d81650dcc420b, type: 2}
-  - {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+  - {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -121694,7 +121694,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 9816fdc751ec67f468b5f443c76edf8d, type: 2}
     - target: {fileID: 919132149155446097, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: m_Name
       value: Picture Frame2 (3)
@@ -128676,7 +128676,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 22a95f2072207714981d81650dcc420b, type: 2}
-  - {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+  - {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -130872,7 +130872,7 @@ PrefabInstance:
     - target: {fileID: 8056297029228229148, guid: 54f192f0a44ff284483c8e09c88bb442, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: fef4f35e0c24f99498c63c11a17ad146, type: 2}
     - target: {fileID: 8659658350447740972, guid: 54f192f0a44ff284483c8e09c88bb442, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.4
@@ -136519,23 +136519,23 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: -1806680513116206669, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: -1461304994638716399, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: -804731622281664130, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: -678588488315902003, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: 919132149155446097, guid: 3e37d2bfdacda454fafe7e7a24c5b806, type: 3}
       propertyPath: m_Name
       value: Table
@@ -140402,7 +140402,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 45fa9b0e26a5b2543b4988799f280ff7, type: 2}
+      objectReference: {fileID: 2100000, guid: 03a879204df17e84f90ddf702602c1aa, type: 2}
     - target: {fileID: 919132149155446097, guid: f2db8060f30a84028a28150aa57ee6ad, type: 3}
       propertyPath: m_Name
       value: Picture Frame2 (1)
