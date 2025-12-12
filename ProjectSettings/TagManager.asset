@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Bedroom Door
+  - Front Door
+  - Entering Hard Floor
+  - Entering Soft Floor
   layers:
   - Default
   - TransparentFX
@@ -16,7 +20,7 @@ TagManager:
   - Building
   - Nature
   - Skybox
-  - 
+  - SoundActivators
   - 
   - 
   - 
