@@ -22,7 +22,11 @@ public class LightInteract : MonoBehaviour, IInteractable
 
     private void Awake()
     {
-        gameObject.GetComponent<Light>().intensity = 0;
+        if(lightOn == false)
+        {
+            gameObject.GetComponent<Light>().intensity = 0;
+        }
+        
         originalScale = lightSwitch.localScale;
     }
 

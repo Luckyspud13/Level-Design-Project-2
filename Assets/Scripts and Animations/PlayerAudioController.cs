@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class AudioController : MonoBehaviour
@@ -12,8 +14,7 @@ public class AudioController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        playerAudio.loop = true;
-        playerAudio.Play();
+        StartCoroutine(loadBuffer());
     }
 
     // Update is called once per frame
@@ -46,5 +47,12 @@ public class AudioController : MonoBehaviour
             playerAudio.clip = walkOnSoft;
             playerAudio.Play();
         }
+    }
+
+    private IEnumerator loadBuffer()
+    {
+        yield return new WaitForSeconds(1);
+        playerAudio.loop = true;
+        playerAudio.Play();
     }
 }

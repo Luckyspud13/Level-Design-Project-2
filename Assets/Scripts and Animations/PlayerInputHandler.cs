@@ -18,6 +18,7 @@ public class PlayerInputHandler : MonoBehaviour
     [SerializeField] private string sprint = "Sprint";
     [SerializeField] private string interact = "Interact";
     [SerializeField] private string toggleCrosshair = "ToggleCrosshair";
+    [SerializeField] private string startNextScene = "StartNextScene";
 
     public InputAction movementAction;
     public InputAction rotationAction;
@@ -25,6 +26,7 @@ public class PlayerInputHandler : MonoBehaviour
     public InputAction sprintAction;
     public InputAction interactAction;
     public InputAction toggleCrosshairAction;
+    public InputAction startNextSceneAction;
 
     public Vector2 MovementInput { get; private set; }
 
@@ -38,6 +40,8 @@ public class PlayerInputHandler : MonoBehaviour
 
     public bool ToggleCrosshairTriggered { get; private set; }
 
+    public bool StartNextSceneTriggered { get; private set; }
+
     private void Awake()
     {
         InputActionMap mapReference = playerControls.FindActionMap(actionMapName);
@@ -48,6 +52,7 @@ public class PlayerInputHandler : MonoBehaviour
         sprintAction = mapReference.FindAction(sprint);
         interactAction = mapReference.FindAction(interact);
         toggleCrosshairAction = mapReference.FindAction(toggleCrosshair);
+        startNextSceneAction = mapReference.FindAction(startNextScene);
 
         SubscribeActionValuesToInputEvents();
     }
@@ -71,6 +76,9 @@ public class PlayerInputHandler : MonoBehaviour
         
         toggleCrosshairAction.performed += inputInfo => ToggleCrosshairTriggered = true;
         toggleCrosshairAction.canceled += inputInfo => ToggleCrosshairTriggered = false;
+
+        startNextSceneAction.performed += inputInfo => StartNextSceneTriggered = true;
+        startNextSceneAction.canceled += inputInfo => StartNextSceneTriggered = false;
     }
 
     private void OnEnable()

@@ -13,13 +13,17 @@ public class UIController : MonoBehaviour
     [SerializeField] private Interactor interactor;
     [SerializeField] private GameObject crosshair;
     public TextMeshProUGUI textMeshProComponent;
+    public TextMeshProUGUI diableCrosshairTextbox;
     public PlayerInputHandler playerInputHandler;
     private string prompt;
+    public Animator diableCrosshairTextboxAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        crosshair.SetActive(false);
+        diableCrosshairTextboxAnimator.Play("Disable Crosshair Text", 0, 0.0f);
+        StartCoroutine(uiStartDelay());
     }
 
     // Update is called once per frame
@@ -91,4 +95,12 @@ public class UIController : MonoBehaviour
         yield return new WaitForSeconds(0.25f);
         playerInputHandler.toggleCrosshairAction.Enable();
     }
+
+    private IEnumerator uiStartDelay()
+    {
+        yield return new WaitForSeconds(1);
+        crosshair.SetActive(true);
+    }
+
+
 }
