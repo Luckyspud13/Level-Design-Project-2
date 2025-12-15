@@ -4,6 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Wait To Start.unity
+    guid: 7d1bb6a5ac8b24a4590e9fd448ca1cca
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 55952d5f80d3e4d108301f4f4688f7b7
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

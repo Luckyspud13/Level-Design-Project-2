@@ -8,6 +8,7 @@ TagManager:
   - Front Door
   - Entering Hard Floor
   - Entering Soft Floor
+  - Porch Light
   layers:
   - Default
   - TransparentFX

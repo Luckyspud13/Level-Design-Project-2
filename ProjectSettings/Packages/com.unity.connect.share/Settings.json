@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Reusable Build Folder;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Version 0.1;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Hotfix 1;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Build V7;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Build V6;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Build V5;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Build V4;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/Burglary Is No Game! Build V3;C:/Users/diefu/OneDrive/Desktop/GAME3400/Level-Design-Project-2-Final-Project-House-Greybox/New folder;C:/Users/diefu/OneDrive/Desktop/GAME3400\"}"
+            }
+        ]
+    }
+}
